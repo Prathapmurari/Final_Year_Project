@@ -1,5 +1,5 @@
 # Project
-This Project has Five Objectives:
+This Project has 6 Objectives:
 1) Remote access by a family member using GPS. 
 2) Image to speech for visionless people to hear the content of the newspaper, books, and magazines. 
 3) Recognition of Indian currency with fake currency detection. 
